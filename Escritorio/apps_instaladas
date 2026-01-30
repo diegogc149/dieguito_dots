@@ -1,0 +1,19 @@
+Cosas que me instalé:
+toilet (imprimir letras ascii)
+lolcat (mostrar en terminal con colores," dsdsdsd | locat")
+chafa (muestr imágenes)
+calcurse (calendario en terminal)
+pandoc (convertidor de archivos)
+josuto (ranger en rust)
+duf (df -h pero bonito)
+nala (apt bonito)
+skim (busqueda difusa)
+alacritty(no sé pq, uso kitty)
+broot(ls bonito)
+terminal-bg 
+
+You can select theme by editing metadata (/usr/share/sddm/themes/sddm-astronaut-theme/metadata.desktop).
+
+Just edit this line:
+
+ConfigFile=Themes/astronaut.conf

@@ -1,0 +1,6 @@
+2026/01/30-10:21:17.270 9b0 Reusing MANIFEST /home/dieguitodebian/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/30-10:21:17.270 9b0 Recovering log #7
+2026/01/30-10:21:17.274 9b0 Reusing old log /home/dieguitodebian/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2026/01/30-10:21:20.410 9b0 Level-0 table #12: started
+2026/01/30-10:21:20.420 9b0 Level-0 table #12: 3227511 bytes OK
+2026/01/30-10:21:20.422 9b0 Delete type=0 #7

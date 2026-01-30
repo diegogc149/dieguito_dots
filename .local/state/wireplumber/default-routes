@@ -1,0 +1,5 @@
+[default-routes]
+alsa_card.pci-0000_0d_00.6:output:analog-output-lineout={"latencyOffsetNsec":0, "mute":false, "channelVolumes":[0.091105, 0.091105], "channelMap":["FL", "FR"]}
+alsa_card.pci-0000_0d_00.6:profile:output:analog-stereo+input:analog-stereo=["analog-output-lineout"]
+alsa_card.usb-Jieli_Technology_USB_PHY_2.0-02:input:analog-input-mic={"latencyOffsetNsec":0, "mute":false, "channelVolumes":[1.000000], "channelMap":["MONO"]}
+alsa_card.usb-Jieli_Technology_USB_PHY_2.0-02:profile:input:mono-fallback=["analog-input-mic"]

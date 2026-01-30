@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="https://duckduckgo.com/?q=brav&amp;t=kde" added="2026-01-23T20:10:29.722000Z" modified="2026-01-23T20:10:29.835000Z" visited="2026-01-23T20:10:29.835000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="kfmclient_html" exec="kfmclient --mimetype text/html openURL %u" modified="2026-01-23T20:10:29.722000Z" count="1"/>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2026-01-23T20:10:29.835000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/Descargas/rofi-2.0.0.tar.gz" added="2026-01-23T20:14:19.203367Z" modified="2026-01-23T20:14:19.203370Z" visited="2026-01-23T20:14:19.203367Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-01-23T20:14:19.203368Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/Descargas/rofi_1.7.5-0.1+b2_amd64.deb" added="2026-01-23T20:18:09.414165Z" modified="2026-01-23T20:18:13.333000Z" visited="2026-01-23T20:18:13.333000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2026-01-23T20:18:10.390128Z" count="2"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2026-01-23T20:18:13.333000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/Escritorio" added="2026-01-23T20:50:24.021000Z" modified="2026-01-23T20:50:24.021000Z" visited="2026-01-23T20:50:24.021000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u" modified="2026-01-23T20:50:24.021000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dieguitodebian/b4a178bf-c52e-4ef5-8857-3d9a312eddcf/home/dieguito/123" added="2026-01-23T20:52:32.807000Z" modified="2026-01-23T20:52:32.807000Z" visited="2026-01-23T20:52:32.807000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2026-01-23T20:52:32.807000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/.config/hypr/hyprland.conf" added="2026-01-23T21:04:27.950718Z" modified="2026-01-23T21:05:06.713419Z" visited="2026-01-23T21:04:27.950719Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-01-23T21:04:27.950720Z" count="1"/>
+          <bookmark:application name="LibreOffice 25.8" exec="&apos;soffice %u&apos;" modified="2026-01-23T21:05:06.713418Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/Descargas/steam_latest.deb" added="2026-01-23T21:10:52.794996Z" modified="2026-01-23T21:10:53.045055Z" visited="2026-01-23T21:10:52.794997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-01-23T21:10:52.794998Z" count="1"/>
+          <bookmark:application name="org.chromium.Chromium" exec="&apos;gio open %u&apos;" modified="2026-01-23T21:10:53.045054Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/The-Last-Of-Us-Part-II-AnkerGames/The%20Last%20of%20Us%20Part%20II/tlou-ii.exe" added="2026-01-23T21:38:26.013957Z" modified="2026-01-23T21:38:26.017981Z" visited="2026-01-23T21:38:26.013957Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msdownload"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-01-23T21:38:26.017980Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/The-Last-Of-Us-Part-II-AnkerGames/The%20Last%20of%20Us%20Part%20II/launcher.exe" added="2026-01-23T21:38:43.437866Z" modified="2026-01-23T21:38:43.442293Z" visited="2026-01-23T21:38:43.437866Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msdownload"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-01-23T21:38:43.442292Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/.bash_logout" added="2026-01-23T21:49:59.690113Z" modified="2026-01-23T21:49:59.690116Z" visited="2026-01-23T21:49:59.690114Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-01-23T21:49:59.690115Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/Descargas/discord-0.0.121.deb" added="2026-01-25T18:51:18.120094Z" modified="2026-01-25T18:51:18.370163Z" visited="2026-01-25T18:51:18.120095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-01-25T18:51:18.120096Z" count="1"/>
+          <bookmark:application name="org.chromium.Chromium" exec="&apos;gio open %u&apos;" modified="2026-01-25T18:51:18.370160Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dieguitodebian/b4a178bf-c52e-4ef5-8857-3d9a312eddcf/home/dieguito/Descargas/fondo1.jpg" added="2026-01-27T00:02:14.449442Z" modified="2026-01-27T00:02:42.163038Z" visited="2026-01-27T00:02:14.449443Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-01-27T00:02:36.459891Z" count="3"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-3.2 %u&apos;" modified="2026-01-27T00:02:42.163036Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/Descargas/gwen.jpg" added="2026-01-27T00:03:59.196653Z" modified="2026-01-27T00:03:59.446706Z" visited="2026-01-27T00:03:59.196654Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-01-27T00:03:59.196656Z" count="1"/>
+          <bookmark:application name="org.chromium.Chromium" exec="&apos;gio open %u&apos;" modified="2026-01-27T00:03:59.446703Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/.config/fastfetch/gwen.png" added="2026-01-27T00:12:31.974146Z" modified="2026-01-27T00:22:20.817908Z" visited="2026-01-27T00:12:31.974147Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-01-27T00:13:11.304335Z" count="3"/>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2026-01-27T00:22:20.396566Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-3.2 %u&apos;" modified="2026-01-27T00:22:20.817904Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/.config/fastfetch/Gwen.png" added="2026-01-27T00:13:08.888426Z" modified="2026-01-27T02:11:45.693083Z" visited="2026-01-27T00:13:08.888427Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-01-27T02:11:45.693082Z" count="2"/>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2026-01-27T00:22:29.287202Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-3.2 %u&apos;" modified="2026-01-27T00:22:29.479269Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/.config/fastfetch/Gwent.png" added="2026-01-27T00:31:00.955085Z" modified="2026-01-27T02:11:53.796639Z" visited="2026-01-27T00:31:00.955085Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp %u&apos;" modified="2026-01-27T02:08:15.713139Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-3.2 %u&apos;" modified="2026-01-27T02:08:15.903402Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-01-27T02:11:53.796637Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dieguitodebian/18A430EDA430CECE/Users/Diego/Videos/2026-01-26%2011-25-30.mp4" added="2026-01-27T02:13:19.770550Z" modified="2026-01-27T02:13:19.770553Z" visited="2026-01-27T02:13:19.770550Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-01-27T02:13:19.770551Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/dieguitodebian/18A430EDA430CECE/Users/Diego/Videos/2026-01-26_11-28-00.mp4" added="2026-01-27T02:13:27.841912Z" modified="2026-01-27T02:16:01.528478Z" visited="2026-01-27T02:13:27.841912Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-01-27T02:16:01.528476Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/.nvm/alias/default" added="2026-01-30T04:11:17.936466Z" modified="2026-01-30T04:11:17.936472Z" visited="2026-01-30T04:11:17.936467Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-01-30T04:11:17.936469Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dieguitodebian/.nvm/alias/lts/argon" added="2026-01-30T04:11:32.208036Z" modified="2026-01-30T04:11:32.208039Z" visited="2026-01-30T04:11:32.208036Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-01-30T04:11:32.208037Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

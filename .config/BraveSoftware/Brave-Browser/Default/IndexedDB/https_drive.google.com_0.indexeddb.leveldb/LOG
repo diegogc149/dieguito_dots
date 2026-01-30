@@ -1,0 +1,6 @@
+2026/01/30-00:16:28.897 1438 Reusing MANIFEST /home/dieguitodebian/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/30-00:16:28.897 1438 Recovering log #3
+2026/01/30-00:16:28.902 1438 Reusing old log /home/dieguitodebian/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000003.log 
+2026/01/30-00:16:35.839 143a Level-0 table #5: started
+2026/01/30-00:16:35.844 143a Level-0 table #5: 4018321 bytes OK
+2026/01/30-00:16:35.845 143a Delete type=0 #3

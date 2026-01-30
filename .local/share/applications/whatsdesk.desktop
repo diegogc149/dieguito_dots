@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=Network;
+Comment=unofficial whatsapp client for linux
+Exec=/opt/whatsdesk/whatsdesk --enable-features=UseOzonePlatform --ozone-platform=wayland%U
+Icon=whatsdesk
+MimeType=x-scheme-handler/whatsapp;
+Name=whatsdesk
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+StartupWMClass=whatsdesk
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

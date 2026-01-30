@@ -1,0 +1,6 @@
+2026/01/30-10:20:26.756 5 Reusing MANIFEST /home/dieguitodebian/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2026/01/30-10:20:26.759 5 Recovering log #30
+2026/01/30-10:20:26.759 5 Reusing old log /home/dieguitodebian/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000030.log 
+2026/01/30-10:21:17.382 7 Level-0 table #34: started
+2026/01/30-10:21:17.383 7 Level-0 table #34: 14471 bytes OK
+2026/01/30-10:21:17.384 7 Delete type=0 #30

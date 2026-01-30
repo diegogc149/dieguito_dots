@@ -1,0 +1,6 @@
+[Context]
+filesystems=/home/dieguitodebian/.themes;/home/dieguitodebian/.icons;
+
+[Environment]
+GTK_THEME=Flat-Remix-GTK-Blue-Dark
+ICON_THEME=Flat-Remix-Blue-Dark

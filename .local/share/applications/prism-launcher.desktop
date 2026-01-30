@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Prism Launcher
+Comment=A launcher of Minecraft
+Exec=flatpak run org.prismlauncher.PrismLauncher
+Icon=/var/lib/flatpak/appstream/flathub/x86_64/f5e3449c83a8d84877ac9e62c8c7f747e293bf13e77898feb0ea92f8f6d79063/icons/128x128/org.prismlauncher.PrismLauncher.png
+Terminal=false
+Type=Application
+Categories=Game;
+

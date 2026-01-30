@@ -1,0 +1,16 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/.config/fastfetch/gwen.png
+File2[$e]=$HOME/.config/fastfetch/Gwen.png
+File3[$e]=$HOME/.config/fastfetch/Gwent.png
+Name1[$e]=gwen.png
+Name2[$e]=Gwen.png
+Name3[$e]=Gwent.png
+
+[SideBar]
+InformationSplitterSizes=211,244

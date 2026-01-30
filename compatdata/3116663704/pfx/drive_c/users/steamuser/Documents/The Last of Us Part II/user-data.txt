@@ -1,0 +1,67 @@
+built: Jul 21 2025 at 01:22:47
+changelist: 4188655
+machine-name: <redacted>
+active-menu: (none)
+service-display-name: AnkerGames
+service-account-id: 76561197960271872
+service-type: Steam
+username: 
+gamename: t2r
+branchname: t2r-pc-1.6.0
+build-config: t2r-pc-1.6.0-t2r-x64-final
+debug-feature-used: 0
+command-line: <no arguments>
+active-jobs: Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle
+active-tasks: main-menu-menu
+script-call-stacks: <empty-array>
+dynamic-encounters: <empty-array>
+time-since-game-start-seconds: 1856.578125
+time-since-game-start-hours: 0
+time-since-game-start-bucket: first-hour
+gpu-name: AMD Radeon RX 7700 XT
+gpu-driver-version: 25.20
+cpu-info: AuthenticAMD AMD Ryzen 5 9600X
+cpu-cores: 12
+display-resolution-width: 1920
+display-resolution-height: 1080
+os-version: Windows 10.0.26100
+windows-version: Win11
+pso-percent: -1
+last-gpu-crash-hresult-code: 0x0
+last-gpu-crash-hresult-string: S_OK
+memory-used-percent: 61
+memory-physical-total-bytes: 16799244288
+memory-physical-available-bytes: 6433992704
+memory-virtual-total-bytes: 140737488224256
+memory-virtual-available-bytes: 140171427004416
+memory-page-file-total-bytes: 37200338944
+memory-page-file-available-bytes: 8442019840
+memory-commit-total-bytes: 28758319104
+memory-commit-limit-bytes: 37200338944
+memory-page-size-bytes: 4096
+vram-free-bytes: 0
+vram-used-bytes: 4989812736
+vram-budget-bytes: 11860082688
+vram-over-budget: false
+vram-buffers-used-bytes: 41636608
+vram-buffers-budget-bytes: 1275068416
+vram-shaders-used-bytes: 36400896
+vram-shaders-budget-bytes: 507510784
+vram-ndgi-used-bytes: 47155504
+vram-ndgi-budget-bytes: 136314880
+vram-ndgi-over-budget: false
+vram-ndrg-used-bytes: 11381984
+vram-ndrg-budget-bytes: 15728640
+vram-render-pool-used-bytes: 113613840
+vram-render-pool-budget-bytes: 167772160
+vram-render-globals-used-bytes: 16197040
+vram-render-globals-budget-bytes: 25165824
+shared-mem-used-bytes: 1677553664
+shared-mem-budget-bytes: 7711205581
+drive-c-total-bytes: 515428577280
+drive-c-free-bytes: 148816318464
+drive-d-total-bytes: 483870633984
+drive-d-free-bytes: 81410519040
+drive-e-total-bytes: 710276018176
+drive-e-free-bytes: 567749582848
+gpu-diagnostics: None

@@ -1,0 +1,20 @@
+2026/01/25-13:52:24.562 e67e Reusing MANIFEST /home/dieguitodebian/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2026/01/25-13:52:24.565 e67e Recovering log #25
+2026/01/25-13:52:24.565 e67e Reusing old log /home/dieguitodebian/.config/discord/Local Storage/leveldb/000025.log 
+2026/01/25-13:53:24.592 e67f Level-0 table #28: started
+2026/01/25-13:53:24.614 e67f Level-0 table #28: 4347068 bytes OK
+2026/01/25-13:53:24.615 e67f Delete type=0 #25
+2026/01/25-14:20:43.747 e67f Level-0 table #30: started
+2026/01/25-14:20:43.769 e67f Level-0 table #30: 4317329 bytes OK
+2026/01/25-14:20:43.770 e67f Delete type=0 #27
+2026/01/25-14:20:43.772 e67f Compacting 4@0 + 2@1 files
+2026/01/25-14:20:43.825 e67f Generated table #31@0: 33 keys, 4321229 bytes
+2026/01/25-14:20:43.855 e67f Generated table #32@0: 75 keys, 4337700 bytes
+2026/01/25-14:20:43.855 e67f Compacted 4@0 + 2@1 files => 8658929 bytes
+2026/01/25-14:20:43.856 e67f compacted to: files[ 0 3 1 0 0 0 0 ]
+2026/01/25-14:20:43.856 e67f Delete type=2 #28
+2026/01/25-14:20:43.857 e67f Delete type=2 #23
+2026/01/25-14:20:43.857 e67f Delete type=2 #19
+2026/01/25-14:20:43.857 e67f Delete type=2 #20
+2026/01/25-14:20:43.857 e67f Delete type=2 #25
+2026/01/25-14:20:43.857 e67f Delete type=2 #30

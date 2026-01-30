@@ -1,0 +1,15 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"channelVolumes":[1.000000, 1.000000], "mute":false, "volume":1.000000, "channelMap":["FL", "FR"]}
+Output/Audio:media.role:Notification={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "volume":1.000000, "mute":false}
+Input/Audio:application.name:cava={"channelVolumes":[1.000000, 1.000000], "mute":false, "volume":1.000000, "channelMap":["FL", "FR"]}
+Output/Audio:application.name:Chromium={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "mute":false}
+Output/Audio:application.name:java={"volume":1.000000, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "mute":false}
+Output/Audio:application.name:flite={"volume":1.000000, "channelMap":["MONO"], "channelVolumes":[1.000000], "mute":false}
+Output/Audio:application.name:tlou-ii.exe={"volume":1.000000, "mute":false, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000]}
+Input/Audio:application.name:tlou-ii.exe={"volume":1.000000, "mute":false, "channelMap":["MONO"], "channelVolumes":[1.000000]}
+Output/Audio:application.name:The\sLast\sof\sUs™\sPart\sII={"channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false}
+Output/Audio:application.name:Brave={"channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false, "channelMap":["FL", "FR"]}
+Input/Audio:application.name:Brave\sinput={"channelMap":["FL", "FR"], "mute":false, "volume":1.000000, "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:media.role:Music={"channelMap":["FL", "FR"], "volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.id:mpv={"volume":1.000000, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "mute":false}
+Output/Audio:media.role:Movie={"volume":1.000000, "channelMap":["FL", "FR"], "channelVolumes":[1.727987, 1.727987], "mute":false}
