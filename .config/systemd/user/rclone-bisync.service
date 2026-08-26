@@ -1,8 +1,0 @@
-[Unit]
-Description=Rclone bisync Google Drive
-After=network-online.target
-
-[Service]
-Type=oneshot
-ExecStart=/usr/bin/rclone bisync diego: /home/dieguito/Documentos/GoogleDrive --verbose --drive-skip-gdocs --config /home/dieguito/.config/rclone/rclone.conf
-#

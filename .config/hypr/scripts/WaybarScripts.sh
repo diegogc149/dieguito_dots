@@ -1,9 +1,14 @@
 #!/usr/bin/env bash
-# /* ---- 💫 https://github.com/JaKooLit 💫 ---- */  #
-# This file used on waybar modules sourcing defaults set in $HOME/.config/hypr/UserConfigs/01-UserDefaults.conf
+# ==================================================
+#  KoolDots (2026)
+#  Project URL: https://github.com/LinuxBeginnings
+#  License: GNU GPLv3
+#  SPDX-License-Identifier: GPL-3.0-or-later
+# ==================================================
+# This file used on waybar modules sourcing defaults set in ${XDG_CONFIG_HOME:-$HOME/.config}/hypr/UserConfigs/01-UserDefaults.conf
 
 # Define the path to the config file
-config_file=$HOME/.config/hypr/UserConfigs/01-UserDefaults.conf
+config_file=${XDG_CONFIG_HOME:-$HOME/.config}/hypr/UserConfigs/01-UserDefaults.conf
 
 # Check if the config file exists
 if [[ ! -f "$config_file" ]]; then
@@ -24,6 +29,14 @@ if [[ -z "$term" ]]; then
 fi
 
 # Execute accordingly based on the passed argument
+launch_files() {
+    if [[ -z "$files" ]]; then
+        notify-send -u low -i "${XDG_CONFIG_HOME:-$HOME/.config}/swaync/images/error.png" "Waybar: files" "Set \$files in 01-UserDefaults.conf or install a default file manager."
+        return 1
+    fi
+    eval "$files &"
+}
+
 if [[ "$1" == "--btop" ]]; then
     $term --title btop sh -c 'btop'
 elif [[ "$1" == "--nvtop" ]]; then
@@ -33,7 +46,7 @@ elif [[ "$1" == "--nmtui" ]]; then
 elif [[ "$1" == "--term" ]]; then
     $term &
 elif [[ "$1" == "--files" ]]; then
-    $files &
+    launch_files
 else
     echo "Usage: $0 [--btop | --nvtop | --nmtui | --term]"
     echo "--btop       : Open btop in a new term"

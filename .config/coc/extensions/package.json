@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "coc-clangd": ">=0.32.0",
-    "coc-texlab": ">=3.3.0",
-    "coc-snippets": ">=3.4.7"
-  },
-  "lastUpdate": 1763229303385
-}

@@ -1,8 +1,0 @@
-2026/01/25-13:51:00.248 e1c7 Reusing MANIFEST /home/dieguitodebian/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2026/01/25-13:51:00.261 e1c7 Recovering log #22
-2026/01/25-13:51:00.303 e1c7 Level-0 table #25: started
-2026/01/25-13:51:00.327 e1c7 Level-0 table #25: 4302772 bytes OK
-2026/01/25-13:51:00.327 e1c7 Recovering log #25
-2026/01/25-13:51:00.327 e1c7 Reusing old log /home/dieguitodebian/.config/discord/Local Storage/leveldb/000025.log 
-2026/01/25-13:51:00.329 e1c7 Delete type=0 #22
-2026/01/25-13:51:00.329 e1c7 Delete type=2 #26
